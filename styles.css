@@ -67,30 +67,36 @@ footer {
     color: #fff; /* Alterei a cor do texto para branco para melhor legibilidade */
     padding: 50px 20px; /* Ajustei o padding para dar mais espaço ao conteúdo */
 }
+
 .main-text {
     font-weight: bold; /* Torna o texto em negrito */
 }
+
 .text-container {
     background-color: rgba(0, 0, 0, 0.555); /* Cor de fundo quase transparente */
     border-radius: 15px; /* Bordas arredondadas */
     padding: 20px;
     margin: 20px;
 }
+
 #profile-image {
     max-width: 200px;
     border-radius: 80%;
     display: block;
     margin: 0 auto;
 }
+
 .sob-text {
     color:rgb(255, 255, 255);
 }
+
 .sob-container {
         background-color: rgba(0, 0, 0, 0.788); /* Cor de fundo quase transparente */
         border-radius: 15px; /* Bordas arredondadas */
         padding: 20px;
         margin: 20px;
 }
+
 .official-site-link {
     display: inline-block;
     background-color: #333;
