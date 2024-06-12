@@ -101,7 +101,8 @@ footer {
     padding: 10px 20px;
     text-decoration: underline;
     border-radius: 5px;
-    transition: background-color 0.3s ease; 
+    transition: background-color 0.3s ease;
+    margin-bottom: 50px;
 }
 
 .official-site-link:hover {
